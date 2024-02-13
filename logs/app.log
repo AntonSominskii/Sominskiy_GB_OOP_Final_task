@@ -1,0 +1,8 @@
+2024-02-13 22:12:32 [main] INFO  calculator.model.ComplexNumber - Adding 1,000000 + 2,000000i to 2,000000 + 3,000000i results in 3,000000 + 5,000000i
+2024-02-13 22:12:32 [main] INFO  Main - Result of adding: 3,000000 + 5,000000i
+2024-02-13 22:12:32 [main] INFO  Main - Result of multiplication: -4,000000 + 7,000000i
+2024-02-13 22:12:32 [main] INFO  Main - Result of division: 0,615385 + 0,076923i
+2024-02-13 22:12:54 [main] INFO  calculator.model.ComplexNumber - Adding 1,000000 + 2,000000i to 2,000000 + 3,000000i results in 3,000000 + 5,000000i
+2024-02-13 22:12:54 [main] INFO  Main - Result of adding: 3,000000 + 5,000000i
+2024-02-13 22:12:54 [main] INFO  Main - Result of multiplication: -4,000000 + 7,000000i
+2024-02-13 22:12:54 [main] INFO  Main - Result of division: 0,615385 + 0,076923i
